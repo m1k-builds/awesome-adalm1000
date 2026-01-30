@@ -8,7 +8,10 @@ If you would like to discuss ADALM1000 boards, raise ideas, etc: https://github.
 If you wish to improve this repo, please edit to make your changes and send a pull request! 
 
 ## License
-<a href="https://github.com/m1k-builds/awesome-adalm1000">Awesome M1K List</a> © 2026 by <a href="https://souhrud.is-a.dev">Souhrud Reddy</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+<a href="https://github.com/m1k-builds/awesome-adalm1000">Awesome M1K List</a> © 2026 by <a href="https://souhrud.is-a.dev">Souhrud Reddy</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>
+
 
 # List
 
